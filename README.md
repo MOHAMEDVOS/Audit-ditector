@@ -1,6 +1,6 @@
 # RES-VA Call Audit Tool
 
-A Streamlit dashboard built for RES-VA to analyze call records, spot problem calls, and grade how well campaigns are reaching real people.
+My very first app. A simple Streamlit dashboard built for RES-VA to analyze call records and spot problem calls.
 
 ## 🚀 Features
 
